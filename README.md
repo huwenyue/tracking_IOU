@@ -1,5 +1,5 @@
 # tracking_IOU
-## This project is about multi-object tracking with IOU method.
+## This C++ project is about multi-object tracking with IOU method.
 Here is the MOT Competition and Benchmark website : 
 https://motchallenge.net/results/MOT17/?chl=10&orderBy=runtime&orderStyle=DESC&det=Public  
 
